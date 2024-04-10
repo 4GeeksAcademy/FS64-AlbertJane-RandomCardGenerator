@@ -1,1 +1,17 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.blackjack-table {
+  background-image: url("assets/img/mesa_blackjack.jpg");
+  width: 50% !important;
+  height: 50% !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.container-fluid {
+  background-color: rgb(41 70 40);
+  margin: 0 !important;
+  padding: 0 !important;
+}
